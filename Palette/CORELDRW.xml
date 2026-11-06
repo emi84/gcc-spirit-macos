@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<palette guid="9b43bdba-ded0-4aa4-8bfe-0cf561d60a42" name="CORELDRW">
+	<colors>
+		<page>
+			<color cs="CMYK" name="Blanc" tints="0,0,0,0" />
+			<color cs="RGB" name="Noir laser" tints="0,0,0" />
+			<color cs="RGB" name="Rouge laser" tints="1,0,0" />
+			<color cs="RGB" name="Vert laser" tints="0,1,0" />
+			<color cs="RGB" name="Jaune laser" tints="1,1,0" />
+			<color cs="RGB" name="Bleu laser" tints="0,0,1" />
+			<color cs="RGB" name="Mauve laser" tints="1,0,1" />
+			<color cs="RGB" name="Cyan laser" tints="0,1,1" />
+			<color cs="RGB" name="OR #1" tints="0.811765,0.666667,0.258824" />
+			<color cs="RGB" name="R80 G43 B24 #1" tints="0.313725,0.168627,0.0941176" />
+			<color cs="RGB" name="Jaune clair laser" tints="1,1,0.501961" />
+			<color cs="RGB" name="Bleu marine laser" tints="0.501961,0.501961,1" />
+			<color cs="RGB" name="Turquoise laser" tints="0.501961,1,1" />
+			<color cs="RGB" name="Gris laser" tints="0.501961,0.501961,0.501961" />
+			<color cs="RGB" name="Vert bouteille laser" tints="0,0.501961,0.501961" />
+			<color cs="RGB" name="Kaki laser" tints="0.501961,0.501961,0" />
+			<color cs="CMYK" name="Noir" tints="0,0,0,1" />
+			<color cs="CMYK" name="90% Noir" tints="0,0,0,0.9" />
+			<color cs="CMYK" name="80% Noir" tints="0,0,0,0.8" />
+			<color cs="CMYK" name="70% Noir" tints="0,0,0,0.7" />
+			<color cs="CMYK" name="60% Noir" tints="0,0,0,0.6" />
+			<color cs="CMYK" name="50% Noir" tints="0,0,0,0.5" />
+			<color cs="CMYK" name="40% Noir" tints="0,0,0,0.4" />
+			<color cs="CMYK" name="30% Noir" tints="0,0,0,0.3" />
+			<color cs="CMYK" name="20% Noir" tints="0,0,0,0.2" />
+			<color cs="CMYK" name="10% Noir" tints="0,0,0,0.1" />
+			<color cs="CMYK" name="Bleu" tints="1,1,0,0" />
+			<color cs="CMYK" name="Cyan" tints="1,0,0,0" />
+			<color cs="CMYK" name="Vert" tints="1,0,1,0" />
+			<color cs="CMYK" name="Jaune" tints="0,0,1,0" />
+			<color cs="CMYK" name="Rouge" tints="0,1,1,0" />
+			<color cs="CMYK" name="Magenta" tints="0,1,0,0" />
+			<color cs="CMYK" name="Pourpre" tints="0.2,0.8,0,0.2" />
+			<color cs="CMYK" name="Orange" tints="0,0.6,1,0" />
+			<color cs="CMYK" name="Rose" tints="0,0.4,0.2,0" />
+			<color cs="CMYK" name="Marron foncé" tints="0,0.2,0.2,0.6" />
+			<color cs="CMYK" name="Bleu ciel" tints="0.2,0.2,0,0" />
+			<color cs="CMYK" name="Bleu pastel" tints="0.4,0.4,0,0" />
+			<color cs="CMYK" name="Bleu roi" tints="0.6,0.4,0,0" />
+			<color cs="CMYK" name="Bleu électrique" tints="0.6,0.6,0,0" />
+			<color cs="CMYK" name="Bleu gris" tints="0.4,0.4,0,0.2" />
+			<color cs="CMYK" name="Bleu marine" tints="0.6,0.4,0,0.4" />
+			<color cs="CMYK" name="Bleu foncé" tints="0.4,0.4,0,0.6" />
+			<color cs="CMYK" name="Bleu acier" tints="0.4,0.2,0,0.4" />
+			<color cs="CMYK" name="Bleu des mers du sud" tints="1,0.2,0,0" />
+			<color cs="CMYK" name="Bleu glace" tints="0.4,0,0,0" />
+			<color cs="CMYK" name="Bleu vert clair" tints="0.2,0,0,0.2" />
+			<color cs="CMYK" name="Vert océan" tints="0.2,0,0,0.4" />
+			<color cs="CMYK" name="Vert mousse" tints="0.2,0,0,0.6" />
+			<color cs="CMYK" name="Vert foncé" tints="0.2,0,0,0.8" />
+			<color cs="CMYK" name="Vert feuille" tints="0.4,0,0.2,0.6" />
+			<color cs="CMYK" name="Vert herbe" tints="0.6,0,0.4,0.4" />
+			<color cs="CMYK" name="Vert algue" tints="0.4,0,0.2,0.4" />
+			<color cs="CMYK" name="Vert clair" tints="0.6,0,0.4,0.2" />
+			<color cs="CMYK" name="Vert d'eau" tints="0.6,0,0.2,0.2" />
+			<color cs="CMYK" name="Vert printemps" tints="0.6,0,0.6,0.2" />
+			<color cs="CMYK" name="Turquoise" tints="0.6,0,0.2,0" />
+			<color cs="CMYK" name="Vert pale" tints="0.2,0,0.2,0.2" />
+			<color cs="CMYK" name="Blanc vert" tints="0.2,0,0.2,0" />
+			<color cs="CMYK" name="Vert menthe" tints="0.4,0,0.4,0" />
+			<color cs="CMYK" name="Kaki" tints="0.2,0,0.2,0.4" />
+			<color cs="CMYK" name="Avocat" tints="0.2,0,0.4,0.4" />
+			<color cs="CMYK" name="Vert martien" tints="0.2,0,0.6,0.2" />
+			<color cs="CMYK" name="Vert terne" tints="0.2,0,0.4,0.2" />
+			<color cs="CMYK" name="Chartreuse" tints="0.4,0,1,0" />
+			<color cs="CMYK" name="Vert lunaire" tints="0.2,0,0.6,0" />
+			<color cs="CMYK" name="Brun vert" tints="0,0,0.2,0.8" />
+			<color cs="CMYK" name="Olive" tints="0,0,0.2,0.6" />
+			<color cs="CMYK" name="Gris vert" tints="0,0,0.2,0.4" />
+			<color cs="CMYK" name="Ocre" tints="0,0,0.4,0.4" />
+			<color cs="CMYK" name="Jaune banane" tints="0,0,0.6,0.2" />
+			<color cs="CMYK" name="Jaune clair" tints="0,0,0.6,0" />
+			<color cs="CMYK" name="Craie" tints="0,0,0.4,0" />
+			<color cs="CMYK" name="Jaune pale" tints="0,0,0.2,0" />
+			<color cs="CMYK" name="Marron" tints="0,0.2,0.4,0.4" />
+			<color cs="CMYK" name="Brun rouge" tints="0,0.4,0.6,0.2" />
+			<color cs="CMYK" name="Jaune d'or" tints="0,0.2,0.6,0.2" />
+			<color cs="CMYK" name="Feuille d'automne" tints="0,0.6,0.8,0" />
+			<color cs="CMYK" name="Orange clair" tints="0,0.4,0.8,0" />
+			<color cs="CMYK" name="Chair" tints="0,0.4,0.6,0" />
+			<color cs="CMYK" name="Jaune foncé" tints="0,0.2,1,0" />
+			<color cs="CMYK" name="Sable" tints="0,0.2,0.4,0" />
+			<color cs="CMYK" name="Chataigne" tints="0,0.2,0.4,0.6" />
+			<color cs="CMYK" name="Rouge rubis" tints="0,0.6,0.6,0.4" />
+			<color cs="CMYK" name="Brique" tints="0,0.6,0.8,0.2" />
+			<color cs="CMYK" name="Rose tropical" tints="0,0.6,0.6,0" />
+			<color cs="CMYK" name="Rose bébé" tints="0,0.4,0.4,0" />
+			<color cs="CMYK" name="Rose pale" tints="0,0.2,0.2,0" />
+			<color cs="CMYK" name="Pourpre" tints="0,0.4,0.2,0.4" />
+			<color cs="CMYK" name="Rose rouge" tints="0,0.6,0.4,0.2" />
+			<color cs="CMYK" name="Rose foncé" tints="0,0.6,0.2,0.2" />
+			<color cs="CMYK" name="Rose fluo" tints="0,1,0.6,0" />
+			<color cs="CMYK" name="Rose profond" tints="0,0.6,0.4,0" />
+			<color cs="CMYK" name="Rose chaud" tints="0,0.8,0.4,0" />
+			<color cs="CMYK" name="Gris rose" tints="0,0.4,0.2,0.2" />
+			<color cs="CMYK" name="Lie de vin" tints="0,0.4,0,0.6" />
+			<color cs="CMYK" name="Violet foncé" tints="0,0.6,0,0.4" />
+			<color cs="CMYK" name="Violet clair" tints="0,0.4,0,0" />
+			<color cs="CMYK" name="Violet" tints="0,0.4,0,0.2" />
+			<color cs="CMYK" name="Lie de vin gris" tints="0,0.2,0,0.4" />
+			<color cs="CMYK" name="Pourpre pale" tints="0,0.2,0,0.2" />
+			<color cs="CMYK" name="Pourpre papale" tints="0.2,0.6,0,0.2" />
+			<color cs="CMYK" name="Violet fluo" tints="0.2,0.8,0,0" />
+			<color cs="CMYK" name="Violet pale" tints="0.2,0.6,0,0" />
+			<color cs="CMYK" name="Violet gris" tints="0.2,0.4,0,0.2" />
+			<color cs="CMYK" name="Lilas" tints="0.2,0.4,0,0" />
+			<color cs="CMYK" name="Pourpre foncé" tints="0.2,0.4,0,0.6" />
+			<color cs="CMYK" name="Raisin" tints="0.2,0.4,0,0.4" />
+			<color cs="CMYK" name="Bleu violet" tints="0.4,0.6,0,0" />
+			<color cs="CMYK" name="Bleu pourpre" tints="0.4,1,0,0" />
+			<color cs="CMYK" name="Prune" tints="0.4,0.8,0,0.2" />
+			<color cs="CMYK" name="Outremer" tints="0.6,0.8,0,0" />
+			<color cs="CMYK" name="Bleu sombre" tints="0.4,0.6,0,0.4" />
+			<color cs="CMYK" name="Bleu profond" tints="0.6,0.8,0,0.2" />
+			<color cs="CMYK" name="100C100M100J100N" tints="1,1,1,1" />
+			<color cs="RGB" name="OR" tints="0.811765,0.666667,0.258824" />
+			<color cs="RGB" name="R80 G43 B24" tints="0.313725,0.168627,0.0941176" />
+			<color cs="RGB" name="R244 G244 B244" tints="0.956863,0.956863,0.956863" />
+			<color cs="RGB" name="R178 G178 B178" tints="0.698039,0.698039,0.698039" />
+			<color cs="RGB" name="R234 G234 B234" tints="0.917647,0.917647,0.917647" />
+		</page>
+	</colors>
+</palette>

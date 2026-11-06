@@ -95,6 +95,29 @@ L'orientation par défaut est **Portrait**. Une page plus haute que la zone de l
 tournée d'un quart de tour anti-horaire pour s'allonger sur le plateau. Les autres sont gravées telles
 qu'elles apparaissent dans l'aperçu.
 
+## Palettes de couleurs pour CorelDRAW
+
+Le dossier `Palette/` évite de saisir les couleurs à la main. Ouvrez une palette dans CorelDRAW : ses
+couleurs « laser » tombent exactement sur les stylos du pilote.
+
+| Stylo | Couleur | Stylo | Couleur |
+|---|---|---|---|
+| 1 | Noir laser | 9 | Chartreuse laser |
+| 2 | Rouge laser | 10 | Jaune clair laser |
+| 3 | Vert laser | 11 | Bleu marine laser |
+| 4 | Jaune laser | 12 | Violet laser |
+| 5 | Bleu laser | 13 | Turquoise laser |
+| 6 | Mauve laser | 14 | Gris laser |
+| 7 | Cyan laser | 15 | Vert bouteille laser |
+| 8 | Rose laser | 16 | Kaki laser |
+
+- **`Laser.CPL`** contient les 16 couleurs ci-dessus, suivies des couleurs habituelles de CorelDRAW.
+- **`CORELDRW.xml`** n'a pas Rose laser, Chartreuse laser ni Violet laser (stylos 8, 9 et 12). Il
+  ajoute `OR`, qui va au stylo 8, et `R80 G43 B24`, qui va au stylo 1, ainsi que trois gris.
+
+Les autres couleurs de ces palettes vont au stylo le plus proche : pour choisir le stylo avec
+certitude, utilisez les couleurs « laser ».
+
 ## Premier essai
 
 1. Prenez une chute, faites la mise au point et placez la tête au centre de la chute si vous êtes en
