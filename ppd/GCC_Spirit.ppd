@@ -1,0 +1,93 @@
+*PPD-Adobe: "4.3"
+*%  GCC LaserPro Spirit - pilote macOS (gravure raster + decoupe vectorielle).
+*%  Le filtre /Library/Printers/GCC/Filters/gccspirit convertit le PDF imprime en travail GCC.
+*%  Tous les reglages (stylos, mode, DPI, position...) viennent du preset choisi ici, sinon du
+*%  reglage actif de l'app GCC Spirit (icone de la barre des menus).
+*%  La ligne GCCPRESETS est remplacee par la liste des presets a l'installation et par l'app.
+*FormatVersion: "4.3"
+*FileVersion: "2.0"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName: "GCCSPIRT.PPD"
+*Manufacturer: "GCC"
+*Product: "(Spirit)"
+*ModelName: "GCC LaserPro Spirit"
+*ShortNickName: "GCC Spirit"
+*NickName: "GCC LaserPro Spirit (macOS)"
+*PSVersion: "(3010.000) 0"
+*LanguageLevel: "3"
+*% Resolution annoncee aux applications : CorelDRAW dessine un filet sur 1 pixel de cette
+*% resolution ; sans elle (72 dpi par defaut) un filet arrivait a 0,35 mm et etait grave.
+*DefaultResolution: 1524dpi
+*ColorDevice: True
+*DefaultColorSpace: RGB
+*FileSystem: False
+*Throughput: "1"
+*LandscapeOrientation: Plus90
+*TTRasterizer: Type42
+*cupsVersion: 2.2
+*cupsManualCopies: True
+*cupsFilter: "application/pdf 0 /Library/Printers/GCC/Filters/gccspirit"
+*APPrinterUtilityPath: "/Applications/GCC Spirit.app"
+
+*OpenUI *PageSize/Format: PickOne
+*OrderDependency: 10 AnySetup *PageSize
+*DefaultPageSize: Spirit460x640
+*PageSize Spirit460x640/Plateau Spirit 460 x 640 mm (640 x 460 en paysage): "<</PageSize[1303.94 1814.17]>>setpagedevice"
+*PageSize Spirit460x740/Plateau etendu 460 x 740 mm (740 x 460 en paysage): "<</PageSize[1303.94 2097.64]>>setpagedevice"
+*PageSize S400x600/400 x 600 mm: "<</PageSize[1133.86 1700.79]>>setpagedevice"
+*PageSize S300x400/300 x 400 mm: "<</PageSize[850.39 1133.86]>>setpagedevice"
+*PageSize S200x300/200 x 300 mm: "<</PageSize[566.93 850.39]>>setpagedevice"
+*PageSize A3/A3 (297 x 420 mm): "<</PageSize[841.89 1190.55]>>setpagedevice"
+*PageSize A4/A4 (210 x 297 mm): "<</PageSize[595.28 841.89]>>setpagedevice"
+*PageSize A5/A5 (148 x 210 mm): "<</PageSize[419.53 595.28]>>setpagedevice"
+*CloseUI: *PageSize
+
+*OpenUI *PageRegion: PickOne
+*OrderDependency: 10 AnySetup *PageRegion
+*DefaultPageRegion: Spirit460x640
+*PageRegion Spirit460x640/Plateau Spirit 460 x 640 mm (640 x 460 en paysage): "<</PageSize[1303.94 1814.17]>>setpagedevice"
+*PageRegion Spirit460x740/Plateau etendu 460 x 740 mm (740 x 460 en paysage): "<</PageSize[1303.94 2097.64]>>setpagedevice"
+*PageRegion S400x600/400 x 600 mm: "<</PageSize[1133.86 1700.79]>>setpagedevice"
+*PageRegion S300x400/300 x 400 mm: "<</PageSize[850.39 1133.86]>>setpagedevice"
+*PageRegion S200x300/200 x 300 mm: "<</PageSize[566.93 850.39]>>setpagedevice"
+*PageRegion A3/A3 (297 x 420 mm): "<</PageSize[841.89 1190.55]>>setpagedevice"
+*PageRegion A4/A4 (210 x 297 mm): "<</PageSize[595.28 841.89]>>setpagedevice"
+*PageRegion A5/A5 (148 x 210 mm): "<</PageSize[419.53 595.28]>>setpagedevice"
+*CloseUI: *PageRegion
+
+*DefaultImageableArea: Spirit460x640
+*ImageableArea Spirit460x640: "0 0 1303.94 1814.17"
+*ImageableArea Spirit460x740: "0 0 1303.94 2097.64"
+*ImageableArea S400x600: "0 0 1133.86 1700.79"
+*ImageableArea S300x400: "0 0 850.39 1133.86"
+*ImageableArea S200x300: "0 0 566.93 850.39"
+*ImageableArea A3: "0 0 841.89 1190.55"
+*ImageableArea A4: "0 0 595.28 841.89"
+*ImageableArea A5: "0 0 419.53 595.28"
+*DefaultPaperDimension: Spirit460x640
+*PaperDimension Spirit460x640: "1303.94 1814.17"
+*PaperDimension Spirit460x740: "1303.94 2097.64"
+*PaperDimension S400x600: "1133.86 1700.79"
+*PaperDimension S300x400: "850.39 1133.86"
+*PaperDimension S200x300: "566.93 850.39"
+*PaperDimension A3: "841.89 1190.55"
+*PaperDimension A4: "595.28 841.89"
+*PaperDimension A5: "419.53 595.28"
+
+*% GCCPRESETS
+
+*% Format personnalise (taille du document CorelDRAW), jusqu'a 740 x 740 mm.
+*VariablePaperSize: True
+*MaxMediaWidth: "2097.64"
+*MaxMediaHeight: "2097.64"
+*HWMargins: 0 0 0 0
+*CustomPageSize True: "pop pop pop <</PageSize[5 -2 roll]>>setpagedevice"
+*ParamCustomPageSize Width: 1 points 28.35 2097.64
+*ParamCustomPageSize Height: 2 points 28.35 2097.64
+*ParamCustomPageSize WidthOffset: 3 points 0 0
+*ParamCustomPageSize HeightOffset: 4 points 0 0
+*ParamCustomPageSize Orientation: 5 int 0 0
+
+*DefaultFont: Courier
+*Font Courier: Standard "(002.004S)" Standard ROM

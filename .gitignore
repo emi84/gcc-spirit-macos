@@ -1,0 +1,17 @@
+.DS_Store
+build/
+
+# Travaux réels, préréglages et captures : ils peuvent contenir des noms de documents ou de clients.
+*.pdf
+*.prn
+*.cdr
+*.spi
+*.spi.bak
+Capture*.png
+captures/
+
+# Notes personnelles
+*.local.md
+
+# Seul document de test publié
+!essai/mire-80x48mm.pdf
